@@ -1,4 +1,4 @@
-Devoir réalisé en Octobre 2023 dans le cadre du cours "Développement web : html, css et php"
+Projet réalisé en Octobre 2023 dans le cadre du cours "Développement web : html, css et php"
 
 Je devais créer un site web php avec une page d'accueil (header, body, footer) et la page contact (formulaire, réseaux)
 Le thème/style du site est libre
